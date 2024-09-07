@@ -1,5 +1,6 @@
-## Hi there 👋
+## I'm Praise Taiwo 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=praisino)](https://github.com/praisino/github-readme-stats)
 <!--
 **praisino/praisino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -6,7 +6,7 @@
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats-omega-orpin.vercel.app/api?username=praisino&show_icons=true&hide_border=true&count_private=true" />
 
 
-https://github-readme-stats-omega-orpin.vercel.app/
+
 <!--
 **praisino/praisino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

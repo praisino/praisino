@@ -3,7 +3,7 @@
 [![GitHub Streak](https://github-readme-streak-stats-adht.vercel.app?user=praisino)](https://git.io/streak-stats)
 
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats-omega-orpin.vercel.app/api?username=praisino&show_icons=true&hide_border=true&count_private=true" />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats-1-azure.vercel.app/api?username=praisino&show_icons=true&hide_border=true&count_private=true" />
 
 
 

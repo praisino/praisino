@@ -1,6 +1,13 @@
 ## I'm Praise Taiwo 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=praisino)](https://github.com/praisino/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-whwx.vercel.app//api?username=praisino)](https://github.com/praisino/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats-adht.vercel.app?user=praisino)](https://git.io/streak-stats)
+https://github-readme-stats-whwx.vercel.app/
+
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats-omega-orpin.vercel.app/api?username=praisino&show_icons=true&hide_border=true&count_private=true" />
+
+
+https://github-readme-stats-omega-orpin.vercel.app/
 <!--
 **praisino/praisino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

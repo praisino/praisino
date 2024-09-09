@@ -10,7 +10,7 @@
 
 
 ## I'm Praise Taiwo 👋
-<h5 align="center">About me: Data Happy 📊😁, Love the cloud ☁️, and everything Software Development💻. Most of my work is behind the scenes, but you’ll catch me building web apps, playing with AWS 🚀, automating with CI/CD 🤖, and whipping up BI solutions 📈. Let's make tech fun together!</h5>
+<h5 align="center">About me: Data Happy 📊😁, Love the cloud ☁️, and everything Software Development💻. Most of my work is behind the scenes, but you’ll catch me building web apps, architecting within AWS 🚀, automating with CI/CD 🤖, and whipping up BI solutions 📈. Let's make working with data & cloud fun together!</h5>
 <!--
 <p align="center"> <a href="https://github.com/praisino/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praisino" alt="praisino" /></a> </p>
 -->

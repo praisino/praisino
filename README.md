@@ -1,47 +1,101 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70a5fd&height=180&section=header&text=Praise%20Taiwo&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Data%20%E2%80%A2%20Cloud%20%E2%80%A2%20Software%20Engineering&descAlignY=58&descSize=18" alt="Praise Taiwo header" width="100%" />
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/praise-taiwo/"  target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
-  <a href="https://www.credly.com/users/praise_taiwo/" target="blank"><img src="https://img.shields.io/static/v1?message=Credly&logo=credly&label=&color=white&logoColor=&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  /></a>
+<a href="https://github.com/praisino">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Data+Happy+%F0%9F%93%8A%F0%9F%98%81;Architecting+on+AWS+%E2%98%81%EF%B8%8F;Automating+with+CI%2FCD+%F0%9F%A4%96;Building+BI+dashboards+%F0%9F%93%88;Founder+%40+Alisops" alt="Typing SVG" />
+</a>
+
+<p>
+  <a href="https://www.linkedin.com/in/praise-taiwo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.credly.com/users/praise_taiwo/" target="_blank"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" /></a>
+  <a href="https://github.com/praisino/Alisops" target="_blank"><img src="https://img.shields.io/badge/Alisops-1a1b27?style=for-the-badge&logo=databricks&logoColor=70a5fd" alt="Alisops" /></a>
+  <img src="https://komarev.com/ghpvc/?username=praisino&style=for-the-badge&color=70a5fd&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
+
 </div>
 
-###
+---
 
+## 👋 About Me
 
-## I'm Praise Taiwo 👋
-<h5 align="center">About me: Data Happy 📊😁, Love the cloud ☁️, and everything Software Development💻. Most of my works are behind the scenes, but you’ll catch me building web apps, architecting within AWS 🚀, automating with CI/CD 🤖, and whipping up BI solutions 📈. Let's make working with data & cloud fun together!</h5>
-<!--
-<p align="center"> <a href="https://github.com/praisino/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praisino" alt="praisino" /></a> </p>
--->
+I'm **Praise Taiwo**, an engineer who works across **data, cloud and software**. A lot of my work happens behind the scenes. That includes building web apps, designing systems on **AWS**, automating delivery with **CI/CD**, and making **BI solutions** that turn raw data into decisions.
 
-<br>
-<br>
+- 🚀 **Building:** [Alisops](https://github.com/praisino/Alisops). I make data systems for small businesses: automated dashboards, trackers and tools that replace manual work.
+- ☁️ **Focus areas:** Cloud architecture, data engineering, analytics and backend development
+- 🌱 **Always learning:** Cloud-native tooling, data pipelines and automation
+- 🤝 **Open to:** Collaborations on data, cloud and small-business tooling projects
+- 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/praise-taiwo/)
 
+> *Let's make working with data & cloud fun together!*
 
-<h3 align="center">🔥   My Stats :</h3>
+---
 
-[![Praise Taiwo Streak](https://github-readme-streak-stats-adht.vercel.app?user=praisino)](https://git.io/streak-stats)
+## 🛠️ Tech Stack
 
-<!--
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats-1-azure.vercel.app/api?username=praisino&show_icons=true&hide_border=true&count_private=true" />
--->
-[![Praise's GitHub stats](https://github-readme-stats-1-praisinos-projects.vercel.app/api?username=praisino)](https://github.com/praisino/github-readme-stats&show_icons=true&hide_border=true&count_private=true)
+<div align="center">
 
-![Top Langs](https://github-readme-stats-1-praisinos-projects.vercel.app/api/top-langs/?username=praisino&layout=compact&size_weight=0.2&count_weight=0.8)
+**Languages & Frameworks**
 
-<!--
-**praisino/praisino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://skillicons.dev/icons?i=py,django,js,ts,react,html,css,ruby&perline=8" alt="Languages and frameworks" />
 
-Here are some ideas to get you started:
+**Cloud, DevOps & Data**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,linux,postgres,git,github,vscode&perline=8" alt="Cloud, DevOps and data tools" />
 
+<br/>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+
+</div>
+
+---
+
+## 📌 Featured Projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**Alisops**](https://github.com/praisino/Alisops) | Data systems for small businesses: automated dashboards, trackers and tools | HTML · Data · BI |
+| [**vsjobs**](https://github.com/praisino/vsjobs) | Alisops visa-sponsored jobs tracker | Python |
+| [**Domain Health Diagnostic Tool**](https://github.com/praisino/alisops_domain_health_diagnostic_tool) | Diagnostic tool for checking a domain's health | HTML |
+| [**JustDice Financial Performance Report**](https://github.com/praisino/JustDice-Financial-Performance-Report-2022) | Financial performance analysis and reporting | Python · Jupyter |
+| [**Hub Wallet**](https://github.com/praisino/hub-wallet) | Web wallet project | TypeScript |
+| [**Celo Marketplace dApp**](https://github.com/praisino/Marketplace-Celo-Dapp) | Decentralised marketplace on the Celo blockchain | Web3 · HTML |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/praisino">
+  <img height="170" src="https://github-readme-stats-1-praisinos-projects.vercel.app/api?username=praisino&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&theme=tokyonight" alt="Praise's GitHub stats" />
+</a>
+<a href="https://github.com/praisino?tab=repositories">
+  <img height="170" src="https://github-readme-stats-1-praisinos-projects.vercel.app/api/top-langs/?username=praisino&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=8&hide_border=true&theme=tokyonight" alt="Top languages" />
+</a>
+
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <img src="https://github-readme-streak-stats-adht.vercel.app?user=praisino&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=praisino&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub trophies" />
+</a>
+
+</div>
+
+### 📈 Contribution Activity
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=praisino&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" />
+</a>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:70a5fd,100:1a1b27&height=100&section=footer" alt="footer" width="100%" />
+</div>

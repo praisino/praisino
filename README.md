@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70a5fd&height=180&section=header&text=Praise%20Taiwo&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Founder%20of%20Alisops%20%E2%80%A2%20Systems%20%26%20Data%20Engineer&descAlignY=58&descSize=18" alt="Praise Taiwo, Founder of Alisops, Systems and Data Engineer" width="100%" />
+<img src="assets/header.svg" alt="Praise Taiwo, Founder of Alisops, Systems and Data Engineer" width="100%" />
 
 <a href="https://alisops.xyz">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=70A5FD&center=true&vCenter=true&width=640&lines=I+build+the+systems+businesses+run+on;Web+apps+%C2%B7+Automation+%C2%B7+Data+pipelines;Python+%C2%B7+SQL+%C2%B7+JavaScript+%C2%B7+Cloud;Founder+%40+Alisops" alt="I build the systems businesses run on" />
+  <img src="assets/typing.svg" alt="I build the systems businesses run on" />
 </a>
 
 <p>
@@ -219,6 +219,6 @@ Tell me which task eats up your team's Monday.
 <a href="https://alisops.xyz"><img src="https://img.shields.io/badge/Start_a_project-alisops.xyz-1C2A22?style=for-the-badge&labelColor=BE8A3B" alt="Start a project at alisops.xyz" /></a>
 <a href="https://calendly.com/praisetaiwo/30min"><img src="https://img.shields.io/badge/Book_a_call-30_min-70a5fd?style=for-the-badge&logo=calendly&logoColor=white" alt="Book a 30 minute call" /></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:70a5fd,100:1a1b27&height=100&section=footer" alt="" width="100%" />
+<img src="assets/footer.svg" alt="" width="100%" />
 
 </div>

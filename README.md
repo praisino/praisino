@@ -71,30 +71,18 @@ I'm **Praise Taiwo**, an engineer who works across **data, cloud and software**.
 
 <div align="center">
 
-<a href="https://github.com/praisino">
-  <img height="170" src="https://github-readme-stats-1-praisinos-projects.vercel.app/api?username=praisino&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&theme=tokyonight" alt="Praise's GitHub stats" />
-</a>
-<a href="https://github.com/praisino?tab=repositories">
-  <img height="170" src="https://github-readme-stats-1-praisinos-projects.vercel.app/api/top-langs/?username=praisino&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=8&hide_border=true&theme=tokyonight" alt="Top languages" />
-</a>
+<img height="180" src="assets/stats.svg" alt="Praise's GitHub stats" />
+<img height="180" src="assets/top-langs.svg" alt="Most used languages" />
 
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img src="https://github-readme-streak-stats-adht.vercel.app?user=praisino&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=praisino&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub trophies" />
-</a>
+<img height="180" src="assets/streak.svg" alt="Contribution streak" />
 
 </div>
 
 ### 📈 Contribution Activity
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=praisino&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" />
-</a>
+<img width="100%" src="assets/activity.svg" alt="Contribution activity over the last 30 days" />
+
+<sub>Stats are generated daily by a GitHub Action in this repo.</sub>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:70a5fd,100:1a1b27&height=100&section=footer" alt="footer" width="100%" />

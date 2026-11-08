@@ -227,14 +227,21 @@ def streaks(days: dict[str, int]) -> dict:
 # --------------------------------------------------------------------------- cards
 
 def stats_card(data: dict) -> str:
+    year = str(dt.date.today().year)
     rows = [
-        ("star", "Total Stars Earned", data["stars"]),
         ("commit", "Total Commits", data["commits"]),
+        ("star", "Total Stars Earned", data["stars"]),
         ("pr", "Total PRs", data["prs"]),
         ("issue", "Total Issues", data["issues"]),
-        ("repo", "Public Repos", data["repos"]),
         ("people", "Contributed to (last year)", data["contributed_to"]),
+        ("commit", f"Contributions in {year}", sum(v for k, v in data["days"].items() if k.startswith(year))),
+        ("star", "Active Days", sum(1 for v in data["days"].values() if v > 0)),
+        ("repo", "Original Repos", data["repos"]),
+        ("issue", "Languages Used", len(data["langs"])),
     ]
+    # Show the six strongest non-zero metrics, keeping their listed order
+    keep = [r for r in rows if r[2] > 0][:6]
+    rows = [r for r in rows if r in keep]
     body = []
     for i, (icon, label, value) in enumerate(rows):
         y = 62 + i * 25

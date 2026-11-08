@@ -1,0 +1,43 @@
+name: Update profile stats
+
+on:
+  schedule:
+    - cron: "17 3 * * *" # daily
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/scripts/generate_stats.py"
+      - ".github/workflows/stats.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-stats
+  cancel-in-progress: true
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate stats cards
+        env:
+          # Add a STATS_TOKEN secret (PAT with read:user) to include private contributions
+          GH_TOKEN: ${{ secrets.STATS_TOKEN || github.token }}
+          GH_USER: ${{ github.repository_owner }}
+        run: python3 .github/scripts/generate_stats.py
+
+      - name: Commit updated cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/*.svg
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "chore: update profile stats"
+            git push
+          fi

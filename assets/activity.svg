@@ -22,17 +22,17 @@
 <text x="45" y="206.5" text-anchor="end" class="muted">5</text>
 <line x1="55" y1="250.0" x2="825" y2="250.0" stroke="#2a2e48" stroke-dasharray="3 4"/>
 <text x="45" y="254.0" text-anchor="end" class="muted">0</text>
-<text x="55.0" y="272" text-anchor="middle" class="muted">Oct 9</text>
-<text x="183.3" y="272" text-anchor="middle" class="muted">Oct 14</text>
-<text x="311.7" y="272" text-anchor="middle" class="muted">Oct 19</text>
-<text x="440.0" y="272" text-anchor="middle" class="muted">Oct 24</text>
-<text x="568.3" y="272" text-anchor="middle" class="muted">Oct 29</text>
-<text x="696.7" y="272" text-anchor="middle" class="muted">Nov 3</text>
-<text x="825.0" y="272" text-anchor="middle" class="muted">Nov 8</text>
-<defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#70a5fd" stop-opacity=".45"/><stop offset="100%" stop-color="#70a5fd" stop-opacity="0"/></linearGradient><clipPath id="reveal"><rect x="0" y="0" width="0" height="300"><animate attributeName="width" from="0" to="850" dur="1.5s" fill="freeze"/></rect></clipPath></defs><g clip-path="url(#reveal)"><polygon points="55,250 55.0,250.0 80.7,250.0 106.3,193.0 132.0,250.0 157.7,250.0 183.3,250.0 209.0,250.0 234.7,250.0 260.3,250.0 286.0,250.0 311.7,250.0 337.3,250.0 363.0,240.5 388.7,250.0 414.3,250.0 440.0,250.0 465.7,221.5 491.3,250.0 517.0,193.0 542.7,69.5 568.3,250.0 594.0,212.0 619.7,183.5 645.3,250.0 671.0,250.0 696.7,250.0 722.3,250.0 748.0,250.0 773.7,250.0 799.3,117.0 825.0,231.0 825,250" fill="url(#g)"/><polyline points="55.0,250.0 80.7,250.0 106.3,193.0 132.0,250.0 157.7,250.0 183.3,250.0 209.0,250.0 234.7,250.0 260.3,250.0 286.0,250.0 311.7,250.0 337.3,250.0 363.0,240.5 388.7,250.0 414.3,250.0 440.0,250.0 465.7,221.5 491.3,250.0 517.0,193.0 542.7,69.5 568.3,250.0 594.0,212.0 619.7,183.5 645.3,250.0 671.0,250.0 696.7,250.0 722.3,250.0 748.0,250.0 773.7,250.0 799.3,117.0 825.0,231.0" fill="none" stroke="#70a5fd" stroke-width="2.5" stroke-linejoin="round"/>
+<text x="55.0" y="272" text-anchor="middle" class="muted">Oct 10</text>
+<text x="183.3" y="272" text-anchor="middle" class="muted">Oct 15</text>
+<text x="311.7" y="272" text-anchor="middle" class="muted">Oct 20</text>
+<text x="440.0" y="272" text-anchor="middle" class="muted">Oct 25</text>
+<text x="568.3" y="272" text-anchor="middle" class="muted">Oct 30</text>
+<text x="696.7" y="272" text-anchor="middle" class="muted">Nov 4</text>
+<text x="825.0" y="272" text-anchor="middle" class="muted">Nov 9</text>
+<defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#70a5fd" stop-opacity=".45"/><stop offset="100%" stop-color="#70a5fd" stop-opacity="0"/></linearGradient><clipPath id="reveal"><rect x="0" y="0" width="0" height="300"><animate attributeName="width" from="0" to="850" dur="1.5s" fill="freeze"/></rect></clipPath></defs><g clip-path="url(#reveal)"><polygon points="55,250 55.0,250.0 80.7,193.0 106.3,250.0 132.0,250.0 157.7,250.0 183.3,250.0 209.0,250.0 234.7,250.0 260.3,250.0 286.0,250.0 311.7,250.0 337.3,240.5 363.0,250.0 388.7,250.0 414.3,250.0 440.0,221.5 465.7,250.0 491.3,193.0 517.0,69.5 542.7,250.0 568.3,212.0 594.0,183.5 619.7,250.0 645.3,250.0 671.0,250.0 696.7,250.0 722.3,250.0 748.0,250.0 773.7,117.0 799.3,183.5 825.0,250.0 825,250" fill="url(#g)"/><polyline points="55.0,250.0 80.7,193.0 106.3,250.0 132.0,250.0 157.7,250.0 183.3,250.0 209.0,250.0 234.7,250.0 260.3,250.0 286.0,250.0 311.7,250.0 337.3,240.5 363.0,250.0 388.7,250.0 414.3,250.0 440.0,221.5 465.7,250.0 491.3,193.0 517.0,69.5 542.7,250.0 568.3,212.0 594.0,183.5 619.7,250.0 645.3,250.0 671.0,250.0 696.7,250.0 722.3,250.0 748.0,250.0 773.7,117.0 799.3,183.5 825.0,250.0" fill="none" stroke="#70a5fd" stroke-width="2.5" stroke-linejoin="round"/>
 <circle cx="55.0" cy="250.0" r="3.5" fill="#1a1b27" stroke="#bf91f3" stroke-width="2"><title>0</title></circle>
-<circle cx="80.7" cy="250.0" r="3.5" fill="#1a1b27" stroke="#bf91f3" stroke-width="2"><title>0</title></circle>
-<circle cx="106.3" cy="193.0" r="3.5" fill="#1a1b27" stroke="#bf91f3" stroke-width="2"><title>6</title></circle>
+<circle cx="80.7" cy="193.0" r="3.5" fill="#1a1b27" stroke="#bf91f3" stroke-width="2"><title>6</title></circle>
+<circle cx="106.3" cy="250.0" r="3.5" fill="#1a1b27" stroke="#bf91f3" stroke-width="2"><title>0</title></circle>
 <circle cx="132.0" cy="250.0" r="3.5" fill="#1a1b27" stroke="#bf91f3" stroke-width="2"><title>0</title></circle>
 <circle cx="157.7" cy="250.0" r="3.5" fill="#1a1b27" stroke="#bf91f3" stroke-width="2"><title>0</title></circle>
 <circle cx="183.3" cy="250.0" r="3.5" fill="#1a1b27" stroke="#bf91f3" stroke-width="2"><title>0</title></circle>
@@ -41,26 +41,26 @@
 <circle cx="260.3" cy="250.0" r="3.5" fill="#1a1b27" stroke="#bf91f3" stroke-width="2"><title>0</title></circle>
 <circle cx="286.0" cy="250.0" r="3.5" fill="#1a1b27" stroke="#bf91f3" stroke-width="2"><title>0</title></circle>
 <circle cx="311.7" cy="250.0" r="3.5" fill="#1a1b27" stroke="#bf91f3" stroke-width="2"><title>0</title></circle>
-<circle cx="337.3" cy="250.0" r="3.5" fill="#1a1b27" stroke="#bf91f3" stroke-width="2"><title>0</title></circle>
-<circle cx="363.0" cy="240.5" r="3.5" fill="#1a1b27" stroke="#bf91f3" stroke-width="2"><title>1</title></circle>
+<circle cx="337.3" cy="240.5" r="3.5" fill="#1a1b27" stroke="#bf91f3" stroke-width="2"><title>1</title></circle>
+<circle cx="363.0" cy="250.0" r="3.5" fill="#1a1b27" stroke="#bf91f3" stroke-width="2"><title>0</title></circle>
 <circle cx="388.7" cy="250.0" r="3.5" fill="#1a1b27" stroke="#bf91f3" stroke-width="2"><title>0</title></circle>
 <circle cx="414.3" cy="250.0" r="3.5" fill="#1a1b27" stroke="#bf91f3" stroke-width="2"><title>0</title></circle>
-<circle cx="440.0" cy="250.0" r="3.5" fill="#1a1b27" stroke="#bf91f3" stroke-width="2"><title>0</title></circle>
-<circle cx="465.7" cy="221.5" r="3.5" fill="#1a1b27" stroke="#bf91f3" stroke-width="2"><title>3</title></circle>
-<circle cx="491.3" cy="250.0" r="3.5" fill="#1a1b27" stroke="#bf91f3" stroke-width="2"><title>0</title></circle>
-<circle cx="517.0" cy="193.0" r="3.5" fill="#1a1b27" stroke="#bf91f3" stroke-width="2"><title>6</title></circle>
-<circle cx="542.7" cy="69.5" r="3.5" fill="#1a1b27" stroke="#bf91f3" stroke-width="2"><title>19</title></circle>
-<circle cx="568.3" cy="250.0" r="3.5" fill="#1a1b27" stroke="#bf91f3" stroke-width="2"><title>0</title></circle>
-<circle cx="594.0" cy="212.0" r="3.5" fill="#1a1b27" stroke="#bf91f3" stroke-width="2"><title>4</title></circle>
-<circle cx="619.7" cy="183.5" r="3.5" fill="#1a1b27" stroke="#bf91f3" stroke-width="2"><title>7</title></circle>
+<circle cx="440.0" cy="221.5" r="3.5" fill="#1a1b27" stroke="#bf91f3" stroke-width="2"><title>3</title></circle>
+<circle cx="465.7" cy="250.0" r="3.5" fill="#1a1b27" stroke="#bf91f3" stroke-width="2"><title>0</title></circle>
+<circle cx="491.3" cy="193.0" r="3.5" fill="#1a1b27" stroke="#bf91f3" stroke-width="2"><title>6</title></circle>
+<circle cx="517.0" cy="69.5" r="3.5" fill="#1a1b27" stroke="#bf91f3" stroke-width="2"><title>19</title></circle>
+<circle cx="542.7" cy="250.0" r="3.5" fill="#1a1b27" stroke="#bf91f3" stroke-width="2"><title>0</title></circle>
+<circle cx="568.3" cy="212.0" r="3.5" fill="#1a1b27" stroke="#bf91f3" stroke-width="2"><title>4</title></circle>
+<circle cx="594.0" cy="183.5" r="3.5" fill="#1a1b27" stroke="#bf91f3" stroke-width="2"><title>7</title></circle>
+<circle cx="619.7" cy="250.0" r="3.5" fill="#1a1b27" stroke="#bf91f3" stroke-width="2"><title>0</title></circle>
 <circle cx="645.3" cy="250.0" r="3.5" fill="#1a1b27" stroke="#bf91f3" stroke-width="2"><title>0</title></circle>
 <circle cx="671.0" cy="250.0" r="3.5" fill="#1a1b27" stroke="#bf91f3" stroke-width="2"><title>0</title></circle>
 <circle cx="696.7" cy="250.0" r="3.5" fill="#1a1b27" stroke="#bf91f3" stroke-width="2"><title>0</title></circle>
 <circle cx="722.3" cy="250.0" r="3.5" fill="#1a1b27" stroke="#bf91f3" stroke-width="2"><title>0</title></circle>
 <circle cx="748.0" cy="250.0" r="3.5" fill="#1a1b27" stroke="#bf91f3" stroke-width="2"><title>0</title></circle>
-<circle cx="773.7" cy="250.0" r="3.5" fill="#1a1b27" stroke="#bf91f3" stroke-width="2"><title>0</title></circle>
-<circle cx="799.3" cy="117.0" r="3.5" fill="#1a1b27" stroke="#bf91f3" stroke-width="2"><title>14</title></circle>
-<circle cx="825.0" cy="231.0" r="3.5" fill="#1a1b27" stroke="#bf91f3" stroke-width="2"><title>2</title></circle>
+<circle cx="773.7" cy="117.0" r="3.5" fill="#1a1b27" stroke="#bf91f3" stroke-width="2"><title>14</title></circle>
+<circle cx="799.3" cy="183.5" r="3.5" fill="#1a1b27" stroke="#bf91f3" stroke-width="2"><title>7</title></circle>
+<circle cx="825.0" cy="250.0" r="3.5" fill="#1a1b27" stroke="#bf91f3" stroke-width="2"><title>0</title></circle>
 </g>
-<text x="825" y="35" text-anchor="end" class="muted">62 contributions in the last 31 days</text>
+<text x="825" y="35" text-anchor="end" class="muted">67 contributions in the last 31 days</text>
 </svg>
